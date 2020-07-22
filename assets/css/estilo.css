@@ -1809,7 +1809,7 @@
 
 	.box {
 		margin-bottom: 2rem;
-		background: #696969;
+		background: #4D69D3;
 	}
 
 		.box .image.fit {
@@ -2890,7 +2890,7 @@
 
 		.wrapper.style2 {
 			background-color: #f2f2f2;
-			color: #a6a6a6;
+			color: #FFFFFF;
 		}
 
 			.wrapper.style2 input, .wrapper.style2 select, .wrapper.style2 textarea {
@@ -2898,7 +2898,7 @@
 			}
 
 			.wrapper.style2 a {
-				color: #8a4680;
+				color: #1BF9F2;
 			}
 
 			.wrapper.style2 strong, .wrapper.style2 b {
@@ -2906,7 +2906,7 @@
 			}
 
 			.wrapper.style2 h1, .wrapper.style2 h2, .wrapper.style2 h3, .wrapper.style2 h4, .wrapper.style2 h5, .wrapper.style2 h6 {
-				color: #000;
+				color: #FFFFFF;
 			}
 
 			.wrapper.style2 blockquote {
@@ -2940,9 +2940,9 @@
 				.wrapper.style2 input[type="button"].alt,
 				.wrapper.style2 button.alt,
 				.wrapper.style2 .button.alt {
-					background-color: transparent;
+					background-color: black;
 					box-shadow: inset 0 0 0 2px rgba(0, 0, 0, 0.15);
-					color: #000 !important;
+					color: #FFF !important;
 				}
 
 					.wrapper.style2 input[type="submit"].alt:hover,
@@ -3069,7 +3069,7 @@
 			}
 
 			.wrapper.style2 header p {
-				color: #999999;
+				color: #FF0000;
 			}
 
 			.wrapper.style2 table tbody tr {
@@ -4283,7 +4283,7 @@
 
 	#footer {
 		padding: 4rem 0 2rem 0 ;
-		background: #483D8B;
+		background: #151515;
 		text-align: center;
 	}
 
